@@ -18,7 +18,6 @@ class HomePage extends StatelessWidget {
             children: [
               Row(
                 children: [
-
                   Icon(Icons.menu,size: 30,color: Colors.black),
                   Spacer(),
                   Icon(Icons.shopping_cart_outlined,size: 30,color:Colors.grey)
